@@ -1,0 +1,19 @@
+{
+  "name": "gemastore",
+  "version": "1.0.0",
+  "description": "personal e-comerce",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mrmongkeyy/gemastore"
+  },
+  "keywords": [
+    "personal",
+    "e-comerce"
+  ],
+  "author": "gema",
+  "license": "MIT"
+}
